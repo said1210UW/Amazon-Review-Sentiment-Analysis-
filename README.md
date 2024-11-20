@@ -2,7 +2,7 @@
 
 The goal of this project is to explore logistic regression and feature engineering with sklearn.
 
-In this notebook, we will use product review data from Amazon.com to predict whether the sentiments about a product (from its reviews) are positive or negative. Specifically, we will:
+We will use product review data from Amazon.com to predict whether the sentiments about a product (from its reviews) are positive or negative. Specifically, we will:
 
 - Use Pandas DataFrames to perform feature engineering
 - Train a logistic regression model to predict the sentiment of product reviews
